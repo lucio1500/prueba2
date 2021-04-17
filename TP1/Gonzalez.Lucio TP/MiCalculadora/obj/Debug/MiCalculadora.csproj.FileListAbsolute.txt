@@ -1,0 +1,13 @@
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\lucio\Desktop\tp_laborario_2-master\TP1\Gonzalez.Lucio TP\MiCalculadora\obj\Debug\MiCalculadora.pdb
